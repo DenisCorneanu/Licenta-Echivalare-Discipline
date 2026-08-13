@@ -1,0 +1,55 @@
+/* === Tailwind v4 core === */
+@import "tailwindcss";
+
+/* Spune Tailwind-ului unde să caute clasele (înlocuiește content:[] din v3) */
+@source "../index.html";
+@source "./**/*.{js,jsx,ts,tsx}";
+
+/* Layout */
+.container { @apply max-w-6xl mx-auto px-4; }
+@media (min-width: 640px) { .container { @apply px-6; } }
+
+/* Topbar */
+.logo { @apply h-9 w-9 rounded-xl bg-blue-600 text-white grid place-items-center font-bold; }
+
+/* Tabs */
+.tab { @apply px-3 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-100 transition; }
+.tab-active { @apply bg-blue-600 text-white hover:bg-blue-600; }
+
+/* Cards & panels */
+.card { @apply bg-white rounded-2xl shadow-sm border border-slate-200 p-5; }
+.card-h h2 { @apply text-xl font-semibold; }
+.card-h p { @apply text-sm text-slate-600 mt-1; }
+.card-subh { @apply text-sm font-semibold text-slate-600 mb-2 mt-4; }
+
+.panel { @apply bg-white rounded-2xl shadow-sm border border-slate-200 p-4; }
+.panel-h { @apply font-semibold mb-3; }
+
+/* Inputs */
+.lbl { @apply block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1; }
+.input { @apply border border-slate-300 rounded-xl px-3 py-2 w-full outline-none focus:ring-2 focus:ring-blue-500/30; }
+.input.file { @apply file:mr-4 file:py-2 file:px-3 file:rounded-lg file:border-0 file:bg-slate-100 file:text-slate-700 hover:file:bg-slate-200; }
+.select { @apply border border-slate-300 rounded-xl px-3 py-2 w-full outline-none focus:ring-2 focus:ring-blue-500/30; }
+
+/* Buttons */
+.btn { @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-xl bg-blue-600 text-white hover:bg-blue-500 transition; }
+.btn-ghost { @apply bg-slate-100 text-slate-700 hover:bg-slate-200; }
+.btn-secondary { @apply bg-slate-800 hover:bg-slate-700; }
+
+/* Tables */
+.table { @apply w-full text-sm border-collapse; }
+.table th { @apply text-left font-semibold border-b border-slate-200 py-2; }
+.table td { @apply border-b border-slate-100 py-2; }
+.empty { @apply text-center text-slate-500 py-6; }
+
+/* Lists */
+.list { @apply divide-y divide-slate-200 rounded-xl border border-slate-200 bg-white; }
+.list-item { @apply p-3 flex items-center gap-2; }
+.dot { @apply h-2 w-2 rounded-full bg-amber-500 inline-block; }
+
+/* Info / Toast */
+.info { @apply mb-4 rounded-xl border border-blue-200 bg-blue-50 text-blue-700 px-3 py-2; }
+.toast { @apply fixed bottom-5 right-5 px-4 py-3 rounded-xl shadow-lg text-sm text-white; }
+.toast.info { @apply bg-slate-800; }
+.toast.success { @apply bg-emerald-600; }
+.toast.error { @apply bg-rose-600; }

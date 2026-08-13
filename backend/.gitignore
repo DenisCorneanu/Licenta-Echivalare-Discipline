@@ -1,0 +1,10 @@
+node_modules/
+data.db-shm
+data.db-wal
+backups/
+uploads/outputs/
+.env
+__pycache__/
+*.pyc
+venv/
+*.log
