@@ -29,16 +29,16 @@ In testing, most cases that used to take **10–15 minutes** were completed in *
 
 ## Screenshots
 
-Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalități ale aplicației.
+The following screenshots showcase the main functionalities of the application.
 
-### Configurare și procesare
+### Configuration and Processing
 
 <div align="center">
   <img src="./screenshots/p1.png" width="85%" />
 </div>
 
 <p align="center">
-  <i>Configurarea echivalării și încărcarea foii matricole.</i>
+  <i>Configuring the equivalence process and uploading the student's transcript.</i>
 </p>
 
 <div align="center">
@@ -46,20 +46,20 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 </div>
 
 <p align="center">
-  <i>Procesarea automată și afișarea progresului echivalării.</i>
+  <i>Automatic processing and real-time equivalence progress.</i>
 </p>
 
-### Rezultate
+### Results
 
 <div align="center">
   <img src="./screenshots/p3.png" width="85%" />
 </div>
 
 <p align="center">
-  <i>Vizualizarea rezultatelor și gestionarea echivalărilor.</i>
+  <i>Reviewing the generated equivalence results and managing course matches.</i>
 </p>
 
-### Gestionarea manuală / admin
+### Manual Management / Administration
 
 <div align="center">
   <img src="./screenshots/p4.png" width="48%" />
@@ -67,13 +67,12 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 </div>
 
 <p align="center">
-  <i>Interfața pentru gestionarea manuală și administrarea aplicației.</i>
+  <i>Manual course management and administrative configuration.</i>
 </p>
----
 
 ## Video Demo
 
-Pentru o prezentare completă a aplicației, poți urmări demonstrația video de mai jos.
+For a complete demonstration of the application, please watch the video below.
 
 <div align="center">
 
