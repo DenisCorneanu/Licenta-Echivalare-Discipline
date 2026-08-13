@@ -27,15 +27,15 @@ In testing, most cases that used to take **10–15 minutes** were completed in *
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalități ale aplicației.
 
 ### Configurare și procesare
 
 <div align="center">
-  <img src="./video%20%26%20screenshots/screenshots/p1.png" width="48%" />
-  <img src="./video%20%26%20screenshots/screenshots/p2.png" width="48%" />
+  <img src="./screenshots/p1.png" width="48%" />
+  <img src="./screenshots/p2.png" width="48%" />
 </div>
 
 <p align="center">
@@ -45,7 +45,7 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Rezultate
 
 <div align="center">
-  <img src="./video%20%26%20screenshots/screenshots/p3.png" width="48%" />
+  <img src="./screenshots/p3.png" width="48%" />
 </div>
 
 <p align="center">
@@ -55,8 +55,8 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Gestionarea manuală / admin
 
 <div align="center">
-  <img src="./video%20%26%20screenshots/screenshots/p4.png" width="48%" />
-  <img src="./video%20%26%20screenshots/screenshots/p5.png" width="48%" />
+  <img src="./screenshots/p4.png" width="48%" />
+  <img src="./screenshots/p5.png" width="48%" />
 </div>
 
 <p align="center">
@@ -65,19 +65,15 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 
 ---
 
-## 🎥 Video Demo
+## Video Demo
 
 Pentru o prezentare completă a aplicației, poți urmări demonstrația video de mai jos.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="75%" />
-  </a>
-</div>
 
-<p align="center">
-  <i>Demo al aplicației în utilizare.</i>
-</p>
+[▶️ Watch the full demo](https://github.com/DenisCorneanu/Licenta-Echivalare-Discipline/releases/tag/v1.0.0)
+
+</div>
 
 
 ## What It Does
