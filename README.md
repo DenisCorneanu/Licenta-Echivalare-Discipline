@@ -34,8 +34,8 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Configurare și procesare
 
 <div align="center">
-  <img src="./video%20%26%20screenshots/screenshots/screenshot-1.png/p1.png" width="48%" />
-  <img src="./p2.png" width="48%" />
+  <img src="./video%20%26%20screenshots/screenshots/p1.png" width="48%" />
+  <img src="./video%20%26%20screenshots/screenshots/p2.png" width="48%" />
 </div>
 
 <p align="center">
