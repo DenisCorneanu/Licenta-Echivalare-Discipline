@@ -34,18 +34,25 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Configurare și procesare
 
 <div align="center">
-  <img src="./screenshots/p1.png" width="48%" />
-  <img src="./screenshots/p2.png" width="48%" />
+  <img src="./screenshots/p1.png" width="85%" />
 </div>
 
 <p align="center">
-  <i>Configurarea echivalării și procesarea automată a foii matricole.</i>
+  <i>Configurarea echivalării și încărcarea foii matricole.</i>
+</p>
+
+<div align="center">
+  <img src="./screenshots/p2.png" width="85%" />
+</div>
+
+<p align="center">
+  <i>Procesarea automată și afișarea progresului echivalării.</i>
 </p>
 
 ### Rezultate
 
 <div align="center">
-  <img src="./screenshots/p3.png" width="48%" />
+  <img src="./screenshots/p3.png" width="85%" />
 </div>
 
 <p align="center">
@@ -60,9 +67,8 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 </div>
 
 <p align="center">
-  <i>Interfața pentru modificarea manuală și gestionarea datelor.</i>
+  <i>Interfața pentru gestionarea manuală și administrarea aplicației.</i>
 </p>
-
 ---
 
 ## Video Demo
