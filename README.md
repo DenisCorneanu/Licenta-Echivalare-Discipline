@@ -27,6 +27,59 @@ In testing, most cases that used to take **10–15 minutes** were completed in *
 
 ---
 
+## 📸 Screenshots
+
+Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalități ale aplicației.
+
+### Configurare și procesare
+
+<div align="center">
+  <img src="./screenshots/screenshot-1.png" width="48%" />
+  <img src="./screenshots/screenshot-2.png" width="48%" />
+</div>
+
+<p align="center">
+  <i>Configurarea echivalării și procesarea automată a foii matricole.</i>
+</p>
+
+### Rezultate
+
+<div align="center">
+  <img src="./screenshots/screenshot-3.png" width="48%" />
+  <img src="./screenshots/screenshot-4.png" width="48%" />
+</div>
+
+<p align="center">
+  <i>Vizualizarea rezultatelor și gestionarea echivalărilor.</i>
+</p>
+
+### Gestionarea manuală
+
+<div align="center">
+  <img src="./screenshots/screenshot-5.png" width="75%" />
+</div>
+
+<p align="center">
+  <i>Interfața pentru modificarea manuală și gestionarea datelor.</i>
+</p>
+
+---
+
+## 🎥 Video Demo
+
+Pentru o prezentare completă a aplicației, poți urmări demonstrația video de mai jos.
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="75%" />
+  </a>
+</div>
+
+<p align="center">
+  <i>Demo al aplicației în utilizare.</i>
+</p>
+
+
 ## What It Does
 
 - **Reads transcripts automatically** — upload an XLSX or CSV file and the app extracts course names, grades, and credits
