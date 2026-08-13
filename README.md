@@ -45,18 +45,18 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Rezultate
 
 <div align="center">
-  <img src="./p3.png" width="48%" />
-  <img src=".p4.png" width="48%" />
+  <img src="./video%20%26%20screenshots/screenshots/p3.png" width="48%" />
 </div>
 
 <p align="center">
   <i>Vizualizarea rezultatelor și gestionarea echivalărilor.</i>
 </p>
 
-### Gestionarea manuală
+### Gestionarea manuală / admin
 
 <div align="center">
-  <img src="./p5.png" width="75%" />
+  <img src="../video%20%26%20screenshots/screenshots/p4.png" width="75%" />
+  <img src="./video%20%26%20screenshots/screenshots/p5.png" width="48%" />
 </div>
 
 <p align="center">
