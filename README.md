@@ -34,8 +34,8 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Configurare și procesare
 
 <div align="center">
-  <img src="./screenshots/screenshot-1.png" width="48%" />
-  <img src="./screenshots/screenshot-2.png" width="48%" />
+  <img src="./p1.png" width="48%" />
+  <img src="./p2.png" width="48%" />
 </div>
 
 <p align="center">
@@ -45,8 +45,8 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Rezultate
 
 <div align="center">
-  <img src="./screenshots/screenshot-3.png" width="48%" />
-  <img src="./screenshots/screenshot-4.png" width="48%" />
+  <img src="./p3.png" width="48%" />
+  <img src=".p4.png" width="48%" />
 </div>
 
 <p align="center">
@@ -56,7 +56,7 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 ### Gestionarea manuală
 
 <div align="center">
-  <img src="./screenshots/screenshot-5.png" width="75%" />
+  <img src="./p5.png" width="75%" />
 </div>
 
 <p align="center">
