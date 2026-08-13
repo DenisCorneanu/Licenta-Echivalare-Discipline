@@ -56,7 +56,7 @@ Mai jos sunt câteva capturi de ecran care prezintă principalele funcționalit�
 
 <div align="center">
   <img src="../video%20%26%20screenshots/screenshots/p4.png" width="75%" />
-  <img src="./video%20%26%20screenshots/screenshots/p5.png" width="48%" />
+  <img src="../video%20%26%20screenshots/screenshots/p5.png" width="48%" />
 </div>
 
 <p align="center">
